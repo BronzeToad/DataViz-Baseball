@@ -29,6 +29,7 @@ The feedback I received on the first version of my Tableau story came from two p
 [Share URL | Baseball Salary Analysis](https://public.tableau.com/views/BaseballSalaryAnalysis/BaseballSalaryAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 [Share URL | Baseball Salary Analysis v2](https://public.tableau.com/views/BaseballSalaryAnalysisv2/BaseballSalaryAnalysisv2?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+
 [Alt URL | Baseball Salary Analysis](https://public.tableau.com/app/profile/alex.pfleging/viz/BaseballSalaryAnalysis/BaseballSalaryAnalysis)
 [Alt URL | Baseball Salary Analysis v2](https://public.tableau.com/app/profile/alex.pfleging/viz/BaseballSalaryAnalysisv2/BaseballSalaryAnalysisv2)
 
