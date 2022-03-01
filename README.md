@@ -26,12 +26,12 @@ The feedback I received on the first version of my Tableau story came from two p
 
 ## Tableau Public Story Links
 
-[Share URL | Baseball Salary Analysis](https://public.tableau.com/views/BaseballSalaryAnalysis/BaseballSalaryAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
-[Share URL | Baseball Salary Analysis v2](https://public.tableau.com/views/BaseballSalaryAnalysisv2/BaseballSalaryAnalysisv2?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-
-[Alt URL | Baseball Salary Analysis](https://public.tableau.com/app/profile/alex.pfleging/viz/BaseballSalaryAnalysis/BaseballSalaryAnalysis)
-[Alt URL | Baseball Salary Analysis v2](https://public.tableau.com/app/profile/alex.pfleging/viz/BaseballSalaryAnalysisv2/BaseballSalaryAnalysisv2)
+- Share URLs from Tableua Public Story
+  - [Baseball Salary Analysis](https://public.tableau.com/views/BaseballSalaryAnalysis/BaseballSalaryAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+  - [Baseball Salary Analysis v2](https://public.tableau.com/views/BaseballSalaryAnalysisv2/BaseballSalaryAnalysisv2?:language=en-US&:display_count=n&:origin=viz_share_link)
+- Alternate URLs to use if above aren't working properly
+  - [Alt URL - Baseball Salary Analysis](https://public.tableau.com/app/profile/alex.pfleging/viz/BaseballSalaryAnalysis/BaseballSalaryAnalysis)
+  - [Alt URL - Baseball Salary Analysis v2](https://public.tableau.com/app/profile/alex.pfleging/viz/BaseballSalaryAnalysisv2/BaseballSalaryAnalysisv2)
 
 <br>
 
