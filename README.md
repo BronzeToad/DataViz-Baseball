@@ -1,8 +1,8 @@
 # Baseball Salary Analysis #
 
-> Project Document
-> WGU | Data Visualization 
-> Udacity | Project:  Create a Tableau Story
+> Project Document <br>
+> WGU | Data Visualization <br>
+> Udacity | Project:  Create a Tableau Story <br>
 
 <br>
 
